@@ -2251,19 +2251,28 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
-/* One */
+/* Cuidado */
 
-	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+	#cuidado {
+		background: url("images/overlay.png"), url("../../images/cuidado.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* Carinho */
 
-	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+	#carinho {
+		background: url("images/overlay.png"), url("../../images/carinho.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Economia */
+
+	#economia {
+		background: url("images/overlay.png"), url("../../images/economia.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
