@@ -1955,6 +1955,7 @@ input, select, textarea {
 			justify-content: center;
 			text-align: center;
 			padding: 3em 0 3em 0;
+			text-shadow: 2px 2px 4px #000000;
 		}
 
 			.main.style1 h2 {
